@@ -15,6 +15,7 @@ Google Driver
 <left><img width="100%" alt="" src="assets/result2.png"/></left>
 ### DTB70
 <left><img width="100%" alt="" src="assets/result3.png"/></left>
+### Average performance comparison
 <left><img width="100%" alt="" src="assets/result4.png"/></left>
 
 ## Presentation Demo
