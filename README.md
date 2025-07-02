@@ -26,8 +26,8 @@ Google Driver
 ### Installation
 Create and activate a conda environment:
 ```
-conda create -n FP python=3.8
-conda activate FP
+conda create -n PHFP python=3.8
+conda activate PHFP
 ```
 Install the required packages:
 ```
