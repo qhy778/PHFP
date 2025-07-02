@@ -35,7 +35,9 @@ pip install -r requirements.txt
 ```
 
 ### Data Preparation
-Put the tracking datasets in ./data. It should look like this:
+* [COCO](http://cocodataset.org)
+* [GOT-10K](http://got-10k.aitestunion.com/downloads)
+* [LaSOT](http://vision.cs.stonybrook.edu/~lasot/)
  
 
 
