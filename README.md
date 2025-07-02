@@ -39,9 +39,5 @@ Put the tracking datasets in ./data. It should look like this:
  
 
 
-## Acknowledgment
-This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) and [PyTracking](https://github.com/visionml/pytracking) library which are excellent works and help us to quickly implement our ideas.
-
-
 ## Contact
-If you have any question, feel free to email quhaoyu7077@163.com.
+If you have any question, please contact at whjkyx@163.com or quhaoyu7077@163.com.
