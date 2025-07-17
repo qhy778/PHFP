@@ -34,15 +34,16 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-### Test
-Download pretrained model by [Googledrive](https://drive.google.com/file/d/1nzbW0FdwPq13fhfVbqcT6_7q8DhVPgnR/view?usp=drive_link).
-
-The results of TCTrack++ can be [downloaded](https://drive.google.com/drive/folders/1u-nRfeyJBGOwkFBM37PWYPC_DAoxg3ij).
 ### Data Preparation
 * [COCO](http://cocodataset.org)
 * [GOT-10K](http://got-10k.aitestunion.com/downloads)
 * [LaSOT](http://vision.cs.stonybrook.edu/~lasot/)
  
+### Test
+Download pretrained model by [Googledrive](https://drive.google.com/file/d/1nzbW0FdwPq13fhfVbqcT6_7q8DhVPgnR/view?usp=drive_link).
+
+The results of TCTrack++ can be [downloaded](https://drive.google.com/drive/folders/1u-nRfeyJBGOwkFBM37PWYPC_DAoxg3ij).
+
 ## Qualitative Evaluation
 
 ## Contact
