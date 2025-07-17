@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 
 ### Test
-Download pretrained model by Googledrive.[Models & Raw Results](https://drive.google.com/file/d/1nzbW0FdwPq13fhfVbqcT6_7q8DhVPgnR/view?usp=drive_link)
+Download pretrained model by [Googledrive](https://drive.google.com/file/d/1nzbW0FdwPq13fhfVbqcT6_7q8DhVPgnR/view?usp=drive_link)
 ### Data Preparation
 * [COCO](http://cocodataset.org)
 * [GOT-10K](http://got-10k.aitestunion.com/downloads)
