@@ -1,9 +1,5 @@
 # PHFP
 
-[Models & Raw Results](https://drive.google.com/file/d/1nzbW0FdwPq13fhfVbqcT6_7q8DhVPgnR/view?usp=drive_link)
-Google Driver
-| [Training Dataset Labels](https://111drive.google.com/drive/folders/1EhOZqdjaLjrFNW8bHgTizj2-BX9ysrBP?usp=sharing)
-Google Driver
 
 <p align="center">
   <img width="85%" src="assets/result1.png" alt="Framework"/>
