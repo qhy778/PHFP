@@ -1,9 +1,13 @@
 # PHFP
 ## Abstract
 Robust visual tracking for unmanned aerial vehicles (UAVs) remains challenging in dynamic aerial environments because existing methods either fail to capture long-range dependencies in CNN-based models or lose critical lo cal details in Transformer-based approaches, and none explicitly model the in trinsic periodicity of object motion. To overcome these limitations, we propose PHFP, the Progressive Hierarchical Feature Periodic Transformer (PHFP), which is structured as a two-stage representation learning framework for UAV tracking. In the coarse representation learning stage, a Progressive Hierarchical Feature Re f inement (PHFR) module uses a multi-branch atrous Feature Enhancement Mod ule to enrich fine-grained local contexts and a Semantic-Aware Module (SAM) driven by shallow features to suppress background noise and refine deep represen tations. In the fine representation learning stage, a periodic transformer powered by a dedicated Fourier Analysis Network (FAN) hierarchically fuses multi-level feature maps to explicitly extract latent periodic structures and produce robust embeddings. Extensive evaluations on the DTB70, UAV20L, UAVTrack112, and UAVTrack112_L benchmarks demonstrate that PHFP outperforms state-of-the art trackers by significant margins while operating at 32.6 frames per second on an edge-equipped aerial platform, confirming its effectiveness and real-time ca pability. 
+
 <p align="center">
-  <img width="85%" src="assets/result1.png" alt="Framework"/>
+  <img width="85%" src="assets/frame.png" alt="Framework"/>
 </p>
+
+This figure shows the workflow of our tracker.
+
 
 
 ## Results
