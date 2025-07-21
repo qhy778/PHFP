@@ -45,6 +45,10 @@ Download pretrained model by [Googledrive](https://drive.google.com/file/d/1nzbW
 The results of TCTrack++ can be [downloaded](https://drive.google.com/drive/folders/1u-nRfeyJBGOwkFBM37PWYPC_DAoxg3ij).
 
 ## Qualitative Evaluation
+<p align="center">
+  <img width="85%" src="assets/frame.png" alt="Framework"/>
+</p>
+
 
 ## Contact
 If you have any question, please contact at whjkyx@163.com or quhaoyu7077@163.com.
