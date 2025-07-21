@@ -46,7 +46,7 @@ The results of TCTrack++ can be [downloaded](https://drive.google.com/drive/fold
 
 ## Qualitative Evaluation
 <p align="center">
-  <img width="85%" src="assets/frame.png" alt="Framework"/>
+  <img width="85%" src="assets/qe.png" alt="Framework"/>
 </p>
 
 
