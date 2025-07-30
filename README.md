@@ -50,5 +50,4 @@ The results of TCTrack++ can be [downloaded](https://drive.google.com/drive/fold
 </p>
 
 
-## Contact
-If you have any question, please contact at whjkyx@163.com or quhaoyu7077@163.com.
+
