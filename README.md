@@ -18,8 +18,8 @@ This figure shows the workflow of our tracker.
 ### Average performance comparison
 <left><img width="100%" alt="" src="assets/result4.png"/></left>
 
-## Presentation Demo
-[![[Demo] Progressive Hierarchical Feature Periodic Transformer for Robust UAV Tracking - YouTube](https://i.ytimg.com/vi/9x4YBBV-UwI/maxresdefault.jpg)](https://www.youtube.com/watch?v=9x4YBBV-UwI "[Demo] Progressive Hierarchical Feature Periodic Transformer for Robust UAV Tracking - YouTube")
+<!-- ## Presentation Demo -->
+<!--   [![[Demo] Progressive Hierarchical Feature Periodic Transformer for Robust UAV Tracking - YouTube](https://i.ytimg.com/vi/9x4YBBV-UwI/maxresdefault.jpg)](https://www.youtube.com/watch?v=9x4YBBV-UwI "[Demo] Progressive Hierarchical Feature Periodic Transformer for Robust UAV Tracking - YouTube")  -->
 
 
 ## Usage
