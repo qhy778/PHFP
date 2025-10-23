@@ -39,8 +39,8 @@ pip install -r requirements.txt
 * [GOT-10K](http://got-10k.aitestunion.com/downloads)
 * [LaSOT](http://vision.cs.stonybrook.edu/~lasot/)
  
-### Test
-Download pretrained model by [Googledrive](https://drive.google.com/file/d/1mlPf5j9XOmILMZf6CJskmPLOK3Z2xF1a/view?usp=drive_link).  The results of PHFP can be [downloaded](https://drive.google.com/drive/folders/1lKbNtg17Z6S9jt_e3xRoFePHCRwtsNhK?usp=drive_link).
+### Eval
+The results of PHFP can be [downloaded](https://drive.google.com/drive/folders/1lKbNtg17Z6S9jt_e3xRoFePHCRwtsNhK?usp=drive_link).
   
 <!--The results of TCTrack++ can be [downloaded](https://drive.google.com/drive/folders/1u-nRfeyJBGOwkFBM37PWYPC_DAoxg3ij).-->
 
