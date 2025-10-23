@@ -49,5 +49,8 @@ The results of PHFP can be [downloaded](https://drive.google.com/drive/folders/1
   <img width="85%" src="assets/qe.png" alt="Framework"/>
 </p>
 
+## Note
+This repository contains partial code for our paper.
+The full implementation will be released after the paper is accepted.
 
 
